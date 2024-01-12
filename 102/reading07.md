@@ -1,0 +1,5 @@
+Read MDN Control flow: Answer What is control flow? The control flow is the order in which the computer executes' statements' in a script.
+What is a JavaScript function? A JavaScript function is a block of code designed to perform a particular task. Function to compute the product of p1 and p2 function myFunction(p1, p2) {return p1 * p2;
+What does it mean to invoke - or call - a function? The code inside a function is executed when the function is invoked. It is common to use the term "call a function" instead of "invoke a function". It is also common to say "call upon a function", "start a function", or "execute a function".  The code inside the function will execute when "something" invokes (calls) the function: When an event occurs (when a user clicks a button), When it is invoked (called) from, JavaScript code, Automatically (self invoked).
+What are the parenthesis () for when you define a function? A list of parameters to the function, enclosed in parentheses and separated by commas.
+The JavaScript statements that define the function, enclosed in curly braces, { /* … */ }.
