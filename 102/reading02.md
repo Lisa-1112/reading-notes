@@ -15,7 +15,7 @@ completion allows you to start typing, and the code completion.
 1b. What do the following commands do?
 1. pwd command it Prints the path of the Working Directory. 
 2. ls commands lists the contents of a directory.
-3. cd commands change Directories - ie. move to another directory.
+3. cd commands change Directory go to home - directory ie. move to another directory.
 4. mkdir commands stands for "make directory." With mkdir 
 5. touch commands it creates a new file  touch name-of-file
 
