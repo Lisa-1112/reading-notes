@@ -14,3 +14,4 @@ rite an example of a CSS rule that would give all <p> elements red text.
 the rules and the properety can change the color  <p> Paragraph expoitory text 
 I use this website to finf a color and use the code in the formula. https://meyerweb.com/eric/tools/color-blend/#CC3399:::hex
 Pink/red is this code #FF00FF
+"green"html commits not visable
