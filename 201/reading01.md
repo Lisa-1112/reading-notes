@@ -87,6 +87,10 @@ It has greater accessibility. It offers a better user experience.
 What is JavaScript? JavaScript is dynamically typed, allowing variables to change types during runtime. While this flexibility offers convenience, it also requires careful coding to prevent unexpected behavior.
 
 Describe 2 things that require JavaScript in the Browser?
+adding interactive behavior to web pages like zooming in and out or playing audio/video.
+creating web and mobile apps, the most popular examples consist of the likes of Netflix and Uber.
+
+or
 
 Html and CSS require javascript in the browser. 
 Javascript is the functionality heartbeat of the website. 
