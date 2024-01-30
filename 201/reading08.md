@@ -1,10 +1,9 @@
 
-#### Things I what to kniw more about. 
+#### Things I what to know more about. 
 Understanding topics like web development, including flexbox and accessibility, allows me to better serve web developers and designers by providing accurate information and explanations when they need it.
 
-
-
-summarize and explain this topic via an analogy
+summarize and explain this topic via an analogy.
+Analogies in the most simple form are used to make connections. In writing, they serve a deeper purpose; they are used as a way of creating a deeper sense of meaning in the relationship between two things. For example, in the movie, Forrest Gump, Forrest says, "that life is like a box of chocolates," to say that one never knows what they are going to get.
 
 Flexbox is designed for one-dimensional content. Explain what this means.
 Imagine a line, either horizontal or vertical. Flexbox focuses on positioning and spacing elements along this line in a flexible and controlled manner.
