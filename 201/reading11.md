@@ -1,9 +1,7 @@
 Explain how the ability to use video and audio on the web has evolved since the early 2000s. Early 2000s: Remember dial-up? The struggle was real! Video calls were choppy, laggy, and often dropped due to limited bandwidth. Audio calls, while more feasible, lacked clarity and suffered from frequent delays.
 Today: Broadband internet with significantly higher speeds has become the norm. This empowers seamless video calls, smooth audio streaming, and even live broadcasts without hiccups.
-
 Describe the use of the src and controls attributes in the <video> element.
-The src attribute specifies the source of the video file itself, pointing to its location on the server or locally.
-**The controls attribute, when present, tells the browser to display the video player controls, allowing users to interact with the video (play,
+The src attribute specifies the source of the video file itself, pointing to its location on the server or locally. The controls attribute, when present, tells the browser to display the video player controls, allowing users to interact with the video (play,
 **Here's a more detailed explanation of each attribute and its usage:
 src Attribute: **Purpose: ** To define the URL of the video file that you want to embed on the webpage. **Syntax: ** <video src="URL_of_the_video_file">
 **Value: ** It takes a string value, which is the absolute or relative URL of the video file. **Essential: ** Yes, it's a required attribute for the <video> element.
