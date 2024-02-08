@@ -57,3 +57,7 @@ Reduced Stress and Anxiety: Being able to speak up and ask questions without fea
 Increased Sense of Belonging and Collaboration: Feeling safe fosters a sense of belonging and encourages collaboration, making team members feel more connected and supported.
 Boosted Confidence and Willingness to Take Risks: When mistakes are seen as learning opportunities, team members are more likely to take risks and try new things, leading to personal and professional growth.
 Greater Personal and Professional Growth: Open feedback and a supportive environment promote continuous learning and development, helping team members reach their full potential.
+
+## Things I want to know more about
+Impovements' in a socal setting improvement in manners in a work and school inviroment keep nose down. Taking a quiz not being interuped 
+At work improvement yelled at social status and leadership abuse and lost weight 10 pounds rude comments? Two chairs online therapy.. possibly helpful.. don't compare yourself to another. 
