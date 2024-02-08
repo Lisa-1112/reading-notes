@@ -41,5 +41,7 @@ Interactive Visualizations: I can answer your questions in an informative way, e
 Visual Summaries of Code: I can generate different creative text formats of text content, like poems, code, scripts, musical pieces, etc. Chart.js could be used to create visual summaries of the code I generate. This could be helpful for understanding the structure and flow of the code, especially for complex algorithms.
 Explaining Complex Concepts: I can be used to explain complex concepts in a clear and concise way. Chart.js could be used to create visuals that help to illustrate these concepts. For example, if I am explaining the concept of machine learning, I could use a chart to show how a machine learning model learns from data.
 
+    
+
 ## Things I would like to know more about?
 I'm still not able to make a image clickable. 

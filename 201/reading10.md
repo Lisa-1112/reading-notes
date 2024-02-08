@@ -1,4 +1,10 @@
 List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
+1. List a few types of errors that you have encountered in past lab assignments and explain how you were able to correct them.
+Logical Errors:
+2. These errors occur when your code compiles and runs without crashing, but it produces incorrect results due to flaws in your logic or algorithm.
+3. Solution: Use test cases to check if your code behaves as expected for different inputs. Print intermediate values during execution to trace the logic flow and identify where it goes wrong. Break down complex problems into smaller, testable steps.
+4. Runtime Errors: These errors occur when your code crashes during execution due to issues like accessing invalid memory locations, division by zero, or exceeding limitations.
+
 Model Complexity:
 Overly complex models can be computationally expensive, require more training data, and be susceptible to overfitting.
 Solutions: Start with simpler models and gradually increase complexity as needed, prioritize model interpretability, and leverage efficient hardware and software for training.
